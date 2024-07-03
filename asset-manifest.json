@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandesh2704/FileSync.git/static/css/main.827893e8.css",
+    "main.js": "/Sandesh2704/FileSync.git/static/js/main.1e860756.js",
+    "static/js/453.eaab493d.chunk.js": "/Sandesh2704/FileSync.git/static/js/453.eaab493d.chunk.js",
+    "index.html": "/Sandesh2704/FileSync.git/index.html",
+    "main.827893e8.css.map": "/Sandesh2704/FileSync.git/static/css/main.827893e8.css.map",
+    "main.1e860756.js.map": "/Sandesh2704/FileSync.git/static/js/main.1e860756.js.map",
+    "453.eaab493d.chunk.js.map": "/Sandesh2704/FileSync.git/static/js/453.eaab493d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827893e8.css",
+    "static/js/main.1e860756.js"
+  ]
+}
